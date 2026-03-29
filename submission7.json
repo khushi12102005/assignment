@@ -1,6 +1,6 @@
 {
-  "prompt": "A realistic scene showing a single ornate lock with an extremely intricate metal key fully inserted into it, fitting perfectly. Surrounding it are several simple padlocks where different simple keys are inserted but do not match the ornate lock. The contrast between the perfect fit of the complex key and the mismatch of other keys must be visually clear. Natural lighting, shallow depth of field, highly realistic textures, clean composition, no text, no symbols.",
-  "model": "DALL·E 3 (ChatGPT)",
-  "concept": "Overfitting",
-  "metaphor": "A complex key fits one ornate lock perfectly while other keys fail, showing a solution tailored to one case that does not generalize."
+  "prompt": "A 17th-century Baroque still life painting. A dark, dramatic scene illuminated by a single directional light source. On a wooden table lies an antique brass weighing scale. One side holds a collection of objects including grapes, a fig, a lemon, and gold coins, making it heavier and slightly tilted. The other side is empty. Nearby, additional small brass weights are placed on the table, suggesting an ongoing process of balancing and adjustment. Rich textures of velvet cloth, reflective metal, aged wood, and ripe fruit. Deep shadows, chiaroscuro lighting, highly detailed, painterly style, no text, no modern elements.",
+  "model": "DALL·E 3",
+  "concept": "model fitting",
+  "metaphor": "A weighing scale adjusted with weights to balance uneven loads mirrors tuning model parameters to minimize error."
 }
